@@ -6,11 +6,8 @@ I'm a software developer passionate about building clean, maintainable, and reus
 
 ---
 
-🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,docker,git,github,postman"
-    height="48"
-  />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,docker,git,github,postman,flutter,all&perline=13" />
 </p>
