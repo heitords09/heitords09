@@ -9,5 +9,5 @@ I'm a software developer passionate about building clean, maintainable, and reus
 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,simfony,js,html,css,mysql,postgres,docker,git,github,postman,flutter,all&perline=13" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,html,css,mysql,postgres,docker,git,github,postman,flutter,all&perline=13" />
 </p>
