@@ -11,5 +11,8 @@ My professional focus is on software development in the logistics sector, where 
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,docker,git,github,postman,all&perline=6" />
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,docker,git,github,postman"
+    height="48"
+  />
 </p>
