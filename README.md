@@ -2,13 +2,11 @@
 
 ### <kbd>Software Developer</kbd>
 
-I'm a software developer who is always looking to learn, improve, and build better solutions. I strive to write clean, maintainable, and reusable code while continuously expanding my technical knowledge. I enjoy collaborating with others, exchanging ideas, and helping solve problems together.
-
-My professional focus is on software development in the logistics sector, where I work on creating efficient and reliable solutions for real-world challenges. Outside of work, I like developing personal projects and finding practical ways to solve everyday problems. I'm also dedicated to practicing on LeetCode to strengthen my algorithmic thinking and problem-solving skills.
+I'm a software developer passionate about building clean, maintainable, and reusable solutions. I enjoy learning new technologies, collaborating with others, and continuously improving my skills. Currently, I focus on software development in the logistics sector while practicing on LeetCode to strengthen my problem-solving abilities.
 
 ---
 
-## 🧰 Languages and Tools
+🧰 Languages and Tools
 
 <p align="left">
   <img
